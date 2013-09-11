@@ -1,0 +1,80 @@
+body{
+	margi:0;
+	padding:0;
+	padding-left:10px; ;
+	padding-right:10px; 
+	background:url(../bilder/and.jpeg) repeat;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height:70px;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+
+#telefon{
+	float:right;
+	margin-right: -168px;
+	padding-top: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+#om{
+padding-top:60px;
+margin-toppx;
+margin-bottom:0:;
+
+
+}
+img{
+padding-top:20px;
+float: :right;
+}
+
+
+
+h2{
+	text-shadow:5px 5px 10px red;
+	color:white;
+
+}
+h4{
+	color:red;
+	font-size: 18px;
+	font-family: Verdana, sans-serif;
+}
+
+p{
+	color:white;
+	font-size: 18px;
+	font-family: Verdana, sans-serif;
+}
+ul{
+	color:white;
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
